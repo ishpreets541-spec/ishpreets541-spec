@@ -30,7 +30,12 @@ I am passionate about bridging the gap between cutting-edge AI research and real
 *   💡 **My Philosophy:** Data is just noise until it is engineered to drive a measurable decision.
 *   🎓 **Education:** IIT Bombay
 
----
+
+### ⚡ Profile Overview
+  🎓 Education  :  IIT Bombay | NIT Bhopal
+  🧠 Specialty  :  Production ML & LLM Engineering
+  🎯 Focus      :  RAG Architecture, Model Reliability, MLOps
+  💡 Philosophy :  "Data is noise until engineered into measurable decisions."
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -65,17 +70,8 @@ I am passionate about bridging the gap between cutting-edge AI research and real
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishpreets541-spec&theme=radical&hide_border=true" alt="Ishpreet's GitHub Streak" />
 </p>
 
----
-### ⚡ Profile Overview
-
-```text
-  🎓 Education  :  IIT Bombay | NIT Bhopal
-  🧠 Specialty  :  Production ML & LLM Engineering
-  🎯 Focus      :  RAG Architecture, Model Reliability, MLOps
-  💡 Philosophy :  "Data is noise until engineered into measurable decisions."
 
 
 
----
 
 
