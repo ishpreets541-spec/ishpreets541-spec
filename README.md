@@ -1,4 +1,4 @@
-Here is the complete, final compiled code for your GitHub profile. You can copy this entire block and paste it directly into your `README.md` file.
+
 
 ```html
 <p align="center">
