@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="linkedin-banner.jpg" alt="Ishpreet Singh Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=220&section=header&text=Ishpreet%20Singh&fontSize=50&desc=IIT%20Bombay%20%7C%20AI%20Systems%20%7C%20Production%20ML&descSize=20" width="100%" alt="Ishpreet Singh Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ishpreet Singh</h1>
