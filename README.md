@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=230&section=header&text=Ishpreet%20Singh&fontSize=50&fontAlignY=36&desc=IIT%20Bombay%20%7C%20NIT%20Bhopal%20%7C%20AI%20Systems%20Architect&descSize=18&descAlignY=62" width="100%" alt="Ishpreet Singh Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=230&section=header&text=Ishpreet%20Singh&fontSize=50&fontAlignY=36&fontColor=ffffff&desc=IIT%20Bombay%20%7C%20NIT%20Bhopal%20%7C%20AI%20Systems%20Architect&descSize=18&descAlignY=62&descColor=ffffff" width="100%" alt="Ishpreet Singh Banner" />
 </p>
 
 <p align="center">
