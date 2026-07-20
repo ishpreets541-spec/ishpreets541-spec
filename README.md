@@ -20,13 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=ishpreets541-spec&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-### ⚡ Profile Overview
 
-```text
-  🎓 Education  :  IIT Bombay | NIT Bhopal
-  🧠 Specialty  :  Production ML & LLM Engineering
-  🎯 Focus      :  RAG Architecture, Model Reliability, MLOps
-  💡 Philosophy :  "Data is noise until engineered into measurable decisions."
 
 ## 🚀 About Me
 
@@ -67,6 +61,13 @@ I am passionate about bridging the gap between cutting-edge AI research and real
 *   LLM Evaluation & Reliability Frameworks
 
 ---
+### ⚡ Profile Overview
+
+```text
+  🎓 Education  :  IIT Bombay | NIT Bhopal
+  🧠 Specialty  :  Production ML & LLM Engineering
+  🎯 Focus      :  RAG Architecture, Model Reliability, MLOps
+  💡 Philosophy :  "Data is noise until engineered into measurable decisions."
 
 ## 📊 GitHub Activity
 <p align="center">
