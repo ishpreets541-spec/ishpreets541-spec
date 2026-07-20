@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ishpreet Singh</h1>
-<h3 align="center">IIT Bombay Alumni | AI Systems Architect | Production ML Specialist</h3>
+<h3 align="center">IIT Bombay  | NIT Bhopal  |AI Systems Architect | Production ML Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishpreet-singh-703528223">
