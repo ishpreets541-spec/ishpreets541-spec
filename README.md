@@ -58,5 +58,5 @@ I am passionate about bridging the gap between cutting-edge AI research and real
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishpreets541-spec&show_icons=true&theme=radical&hide_border=true" alt="Ishpreet's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishpreets541-spec&theme=radical&hide_border=true" alt="Ishpreet's GitHub Streak" />
 </p>
