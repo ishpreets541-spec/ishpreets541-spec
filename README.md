@@ -1,94 +1,62 @@
 ## Hi there 👋
-<p align="center">
-  <img src="linkedin-banner.jpg" alt="Ishpreet Singh Banner" width="100%" />
-</p>
-
-<h1 align="center">Ishpreet Singh</h1>
+<h1 align="center">Hi 👋, I'm Ishpreet Singh</h1>
+<h3 align="center">IIT Bombay Alumni | AI Systems Architect | Production ML Specialist</h3>
 
 <p align="center">
-  IIT Bombay • AI Systems • Production ML
-</p>
-
----
-
-## About
-
-I design and build intelligent systems that move from experimentation to production.
-
-My work focuses on applied machine learning, deep learning, and modern LLM-based systems engineered for measurable business impact.
-
----
-
-## Current Focus
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LLM Evaluation & Reliability
-- ML Systems in Production
-- Decision-Oriented AI Systems
-
----
-
-## Tech Stack
-
-### Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="32"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="32"/>
-</p>
-
-### Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="32"/>
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="32"/>
-</p>
-
-- XGBoost  
-- Model Evaluation (ROC-AUC, PR Curves)  
-- Imbalanced Learning  
-
-### Deep Learning & NLP
-- Transformers (BERT, RoBERTa)
-- Domain-Adaptive Pretraining
-- Text Classification
-- Representation Learning
-
-### Data & Analytics
-- EDA  
-- Statistical Analysis  
-- Feature Engineering  
-
-### Deployment & MLOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" height="32"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="32"/>
-  <img src="https://skillicons.dev/icons?i=git" height="32"/>
-</p>
-
-- Production Inference Pipelines  
-- REST APIs  
-- Model Deployment  
-
-### Modern AI Systems
-- LLM Applications  
-- Retrieval-Augmented Generation (RAG)  
-- Vector Databases (FAISS)  
-- Prompt Engineering  
-- AI System Evaluation  
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/ishpreet-singh">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
+  <a href="https://www.linkedin.com/in/ishpreet-singh-703528223">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ishpreet.singh@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="28"/>
+  <a href="mailto:ishpreets541@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
+
+## 🚀 About Me
+
+I am passionate about bridging the gap between cutting-edge AI research and real-world business applications. I design, build, and deploy intelligent systems that scale smoothly from experimentation to production.
+
+*   🔭 **Current Focus:** Large Language Models (LLMs), RAG architectures, and building robust, decision-oriented AI systems.
+*   💡 **My Philosophy:** Data is just noise until it is engineered to drive a measurable decision.
+*   🎓 **Education:** IIT Bombay
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### 💻 Languages & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,bash" height="40" alt="Languages" />
+</p>
+
+### 🧠 Machine Learning & Deep Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,tensorflow" height="40" alt="ML Frameworks" />
+</p>
+
+*   **Core ML:** XGBoost, Imbalanced Learning, Advanced Model Evaluation (ROC-AUC, PR Curves)
+*   **NLP:** Transformers (BERT, RoBERTa), Domain-Adaptive Pretraining, Text Classification, Representation Learning
+
+### ⚙️ Deployment & MLOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,linux" height="40" alt="MLOps" />
+</p>
+
+*   **Infrastructure:** Production Inference Pipelines, REST APIs, Model Deployment Strategy
+
+### 🤖 Modern AI Systems
+*   LLM Applications & Prompt Engineering
+*   Retrieval-Augmented Generation (RAG)
+*   Vector Databases (FAISS)
+*   LLM Evaluation & Reliability Frameworks
+
+---
+
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishpreets541-spec&show_icons=true&theme=radical&hide_border=true" alt="Ishpreet's GitHub Stats" />
+</p>
 <!--
 **ishpreets541-spec/ishpreets541-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
