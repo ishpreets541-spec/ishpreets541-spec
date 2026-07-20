@@ -1,12 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="linkedin-banner.jpg" alt="Ishpreet Singh Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ishpreet Singh</h1>
-<h3 align="center">IIT Bombay  | NIT Bhopal  |AI Systems Architect | Production ML Specialist</h3>
+<h3 align="center">IIT Bombay | NIT Bhopal | AI Systems Architect | Production ML Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishpreet-singh-703528223">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ishpreets541@gmail.com">
+  <a href="mailto:ishpreets@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -19,7 +22,7 @@ I am passionate about bridging the gap between cutting-edge AI research and real
 
 *   🔭 **Current Focus:** Large Language Models (LLMs), RAG architectures, and building robust, decision-oriented AI systems.
 *   💡 **My Philosophy:** Data is just noise until it is engineered to drive a measurable decision.
-*   🎓 **Education:** IIT Bombay
+*   🎓 **Education:** IIT Bombay NIT Bhopal
 
 ---
 
@@ -57,17 +60,3 @@ I am passionate about bridging the gap between cutting-edge AI research and real
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishpreets541-spec&show_icons=true&theme=radical&hide_border=true" alt="Ishpreet's GitHub Stats" />
 </p>
-<!--
-**ishpreets541-spec/ishpreets541-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
