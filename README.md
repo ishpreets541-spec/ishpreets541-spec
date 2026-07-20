@@ -60,6 +60,11 @@ I am passionate about bridging the gap between cutting-edge AI research and real
 *   Vector Databases (FAISS)
 *   LLM Evaluation & Reliability Frameworks
 
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishpreets541-spec&theme=radical&hide_border=true" alt="Ishpreet's GitHub Streak" />
+</p>
+
 ---
 ### ⚡ Profile Overview
 
@@ -69,10 +74,7 @@ I am passionate about bridging the gap between cutting-edge AI research and real
   🎯 Focus      :  RAG Architecture, Model Reliability, MLOps
   💡 Philosophy :  "Data is noise until engineered into measurable decisions."
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishpreets541-spec&theme=radical&hide_border=true" alt="Ishpreet's GitHub Streak" />
-</p>
+
 
 ---
 
