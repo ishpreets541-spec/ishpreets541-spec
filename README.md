@@ -31,7 +31,7 @@ I am passionate about bridging the gap between cutting-edge AI research and real
 *   🎓 **Education:** IIT Bombay
 
 
-### ⚡ Profile Overview
+⚡ Profile Overview
   🎓 Education  :  IIT Bombay | NIT Bhopal
   🧠 Specialty  :  Production ML & LLM Engineering
   🎯 Focus      :  RAG Architecture, Model Reliability, MLOps
